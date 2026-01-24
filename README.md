@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Daniel Adegoke
 - 👀 I’m interested in solving problems using software
 - 🌱 I’m currently into Web Development.
-- 📫 How to reach me mofopeadegoke@gmail.com.
+- 📫 How to reach me mofopeadegoke@gmail.com
 
 ---
 
